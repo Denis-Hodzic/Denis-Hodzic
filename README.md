@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently developing my own web projects<br>🤝 Seeking a second-year internship in web development<br>🚀 Continuously improving my technical and problem-solving skills<br>🎓 Computer Science student at IUT Annecy, France<br>💬 Open to discussions and opportunities<br>
+🔭 Currently developing my own web projects<br>🤝 Seeking a third-year internship in web development<br>🚀 Continuously improving my technical and problem-solving skills<br>🎓 Computer Science student at IUT Annecy, France<br>💬 Open to discussions and opportunities<br>
 
 
 ## 🌐 Socials:
